@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Corey a Data Science student at CodeUp
 
 <!--
 **corey-baughman/corey-baughman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
