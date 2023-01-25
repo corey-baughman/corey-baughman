@@ -34,29 +34,8 @@ This README.md file is my GitHub profile
 <!--- Snapshot of Events -->
 - Data Science program just began on 17Jan2023! and am ready to begin collaborating on projects
 - Served in the **U.S. Army** in logistics, public affairs, media, and chemical
-- Graduated with a B.Sc. in **Chemistry** from Texas A&M University
 - Graduated with a B.Sc. in **Integrative Studies** from University of North Texas
-- 📫 Reach me at **keith.stateson@gmail.com**
-
-
-<!--- My Websites -->
-<head>
-    <h3 align="left">
-        My Websites:
-    </h3>
-</head>
-
-<body>
-    <p align="left">
-        <a href="https://www.enduringwriter.com" target="blank">
-        <img align="center" src="https://static.wixstatic.com/media/076b99_b08fce0a88f04c25b48afa89f780cecd~mv2.png" alt="Enduring Writer" style="object-fit:contain; width:50px; height:50px;"/>
-        </a>
-        &nbsp;
-        <a href="https://www.singfighter.com" target="blank">
-        <img align="center" src="https://static.wixstatic.com/media/076b99_b626ee29d9504784a7ae48ec364a4aac~mv2.png" alt="Sing Fighter" style="object-fit:scale-contain; width:40px; height:40px;"/>
-        </a>
-    </p>
-</body>
+- 📫 Reach me at **corey.j.baughman@gmail.com**
 
 
 <!--- Social Networks - Connect with me -->
@@ -120,7 +99,7 @@ This README.md file is my GitHub profile
 <body>
     <div>
         <a href="https://github.com/corey-baughman" target="_blank">    
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=enduringwriter" alt="enduringwriter"/>
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=enduringwriter" alt="corey-baughman"/>
         </a>
         <a href="https://github.com/corey-baughman" target ="_blank">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=corey-baughman" alt="corey-baughman"/>
@@ -136,9 +115,6 @@ This README.md file is my GitHub profile
 <!--- GitHub Repositories -->
 <body>
     <div>
-        <a href="https://github.com/corey-baughman" target ="_blank">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=corey-baughman&repo=fun_projects" alt="corey-baughman"/>
-        </a>
         <a href="https://github.com/corey-baughman" target ="_blank">
         <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=corey-baughman&repo=corey-baughman" alt="corey-baughman"/>
         </a>
