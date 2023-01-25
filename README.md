@@ -99,7 +99,7 @@ This README.md file is my GitHub profile
 <body>
     <div>
         <a href="https://github.com/corey-baughman" target="_blank">    
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=enduringwriter" alt="corey-baughman"/>
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=corey-baughman" alt="corey-baughman"/>
         </a>
         <a href="https://github.com/corey-baughman" target ="_blank">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=corey-baughman" alt="corey-baughman"/>
