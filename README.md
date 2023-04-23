@@ -16,7 +16,7 @@ This README.md file is my GitHub profile
     <meta name="author" content="Corey Baughman">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <h1 align="center">
-        Howdy, I'm Corey Baughman <br> from Colorado, USA 🇺🇸
+        Hi, I'm Corey Baughman <br> from Colorado, USA 🇺🇸
     </h1>
 </head>
 
@@ -49,16 +49,7 @@ This README.md file is my GitHub profile
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" alt="Corey Baughman" height="40" width="40"/>
         </a>
         &nbsp;
-        <a href="https://youtu.be/rBRtNWWkKtQ" target="blank">
-        <img align="center" src="https://github.com/enduringwriter/enduringwriter/blob/3f9d5db1fb06f3034969743d7d044fffd958cbfd/icons_for_my_github_profile/youtube.png" alt="Keith Stateson" height="40" width="40"/>
-        </a>
-        &nbsp;
-        <a href="https://twitter.com/CoreyJBaughman" target="blank">
-        <img align="center" src="https://github.com/enduringwriter/enduringwriter/blob/3f9d5db1fb06f3034969743d7d044fffd958cbfd/icons_for_my_github_profile/twitter.png" alt="Corey Baughman" height="40" width="40"/>
-        </a>
-        &nbsp;
-        <a href="https://stackoverflow.com/users/20429461/enduringwriter" target="blank">
-        <img align="center" src="https://github.com/enduringwriter/enduringwriter/blob/3f9d5db1fb06f3034969743d7d044fffd958cbfd/icons_for_my_github_profile/stackoverflow.png" alt="Keith Stateson" height="40" width="40"/>
+        
         </a>
     </p>
 </body>
