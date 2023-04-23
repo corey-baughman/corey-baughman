@@ -49,9 +49,6 @@ This README.md file is my GitHub profile
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" alt="Corey Baughman" height="40" width="40"/>
         </a>
         &nbsp;
-        
-        </a>
-    </p>
 </body>
 
 
@@ -71,18 +68,8 @@ This README.md file is my GitHub profile
         </a>
         &nbsp;
         <a href="https://github.com/corey-baughman" target="_blank">
-        <img src="https://github.com/enduringwriter/enduringwriter/blob/6594379f38e3d47cb673324bd1d851cc91f6799a/icons_for_my_github_profile/pycharm.svg" alt="flask" width="40" height="40"/>
-        </a>
-        &nbsp;
-        <a href="https://github.com/corey-baughman" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
         </a>
-        &nbsp;
-        <a href="https://github.com/corey-baughman" target="_blank">
-        <img src="https://github.com/enduringwriter/enduringwriter/blob/c3c54696d525f7daa9158d5b1a6bdb4a7c73fed4/icons_for_my_github_profile/photoshop.svg" alt="photoshop" width="40" height="40"/>
-        </a>
-    </p>
-    <br>
 </body>
 
 
@@ -112,9 +99,5 @@ This README.md file is my GitHub profile
     </div>
     <br>
 </body>
-
-
-<!--- GitHub Trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=corey-baughman)](https://github.com/corey-baughman/github-profile-trophy)
 
 </html>
