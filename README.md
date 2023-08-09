@@ -32,6 +32,7 @@ This README.md file is my GitHub profile
 
 
 <!--- Snapshot of Events -->
+- Graduated CodeUp Data Science June 2023
 - Served in the **U.S. Navy** in Explosive Ordnance Disposal
 - Graduated with a B.A. in **Philosophy** from Franklin & Marshall College
 - 📫 Reach me at **corey.j.baughman@gmail.com**
