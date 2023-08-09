@@ -32,7 +32,6 @@ This README.md file is my GitHub profile
 
 
 <!--- Snapshot of Events -->
-- Data Science program just began on 17Jan2023! and am ready to begin collaborating on projects
 - Served in the **U.S. Navy** in Explosive Ordnance Disposal
 - Graduated with a B.A. in **Philosophy** from Franklin & Marshall College
 - 📫 Reach me at **corey.j.baughman@gmail.com**
